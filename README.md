@@ -418,6 +418,3 @@ D:\PHP\GITHUB\BOOKWORM#│  README.md
 提取码：ej5h
 复制这段内容后打开百度网盘手机App，操作更方便哦
 
-#### 如果您觉得我的开源库对您有点帮助，可以扫描下方的二维码随意打赏，要是能打赏个 10.24 :monkey_face:就太:thumbsup:了。您的支持将鼓励我继续创作:octocat:
-
-![](Other/pay_ali.jpg) ![](Other/pay_wechat.png)
